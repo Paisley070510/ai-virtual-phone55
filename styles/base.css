@@ -264,3 +264,5 @@ a {
   .xl\:text-6xl { font-size: calc(60px*var(--app-text-scale,1)); }
 }
 
+#nl-badge-frame { display: none !important; }
+
